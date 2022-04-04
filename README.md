@@ -13,3 +13,4 @@ When you reach the homepage of Just Tech News you can see articles posted by use
 * SQL
 
 ## Deployed Project 
+https://thawing-tundra-39148.herokuapp.com/
